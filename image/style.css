@@ -38,7 +38,11 @@ ul{
 	text-align: center;
 	color: rgb(255,255,255);
 	cursor: pointer;
+	/*鼠标悬停到模块上才出现左右调节的按钮*/
+	display: none;
 }
+.container:hover .btn{ display: block; }
+
 .lt{
 	
 	left: 0;
