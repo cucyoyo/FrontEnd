@@ -18,7 +18,7 @@ $(document).ready(function(){
 	})
 	
 	//自动轮播
-	var t = setInterval(moveR,2000)
+	var t = setInterval(moveR,2000);
 	// 鼠标进入时，自动轮播停止
 	$(".container").hover(
 		function(){
@@ -26,7 +26,7 @@ $(document).ready(function(){
 		},
 		function(){
 			t = setInterval(moveR,2000)
-		})
+		});
 
 	$(".gt").click(function(){
 
