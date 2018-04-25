@@ -1,3 +1,4 @@
-## 说明
+## 璇存槑
 
-### 此实例用JQuery实现图片无缝轮播，能够实现手动和自动轮播功能
+### 姝ゅ疄渚嬬敤JQuery瀹炵幇鍥剧墖鏃犵紳杞挱锛岃兘澶熷疄鐜版墜鍔ㄥ拰鑷姩杞挱鍔熻兘
+### 婕旂ず鍦板潃锛歨ttps://cucyoyo.github.io/work/image/image.html
