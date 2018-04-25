@@ -1,0 +1,44 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+
+<title>演示：jQuery实现的测试答题功能</title>
+<!-- <link rel="stylesheet" type="text/css" href="../css/main.css" /> -->
+<link rel="stylesheet" type="text/css" href="styles.css" />
+<style type="text/css">
+.demo{width:760px; margin:60px auto 10px auto}
+
+</style>
+<!-- <script type="text/javascript" src="http://libs.useso.com/js/jquery/1.7.2/jquery.min.js"></script> -->
+
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.2.min.js"></script> 
+<!-- 百度CDN -->
+<!-- <script src="https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script> -->
+<script src="quiz.js"></script>
+<script>
+var init={'questions':[{'question':'jQuery是什么？','answers':['JavaScript库','CSS库','PHP框架','以上都不是'],'correctAnswer':1},{'question':'找出不同类的一项?','answers':['写字台','沙发','电视','桌布'],'correctAnswer':3},{'question':'国土面积最大的国家是：','answers':['美国','中国','俄罗斯','加拿大'],'correctAnswer':3},{'question':'月亮距离地球多远？','answers':['18万公里','38万公里','100万公里','180万公里'],'correctAnswer':2}]};
+// var json = JSON.stringify(init);
+// alert(json);
+
+$(function(){
+	$('#quiz-container').jquizzy({
+        questions: init.questions
+    });
+});
+</script>
+</head>
+
+<body>
+	
+
+<div id="main">
+  
+	<div class="demo">
+		<div id='quiz-container'></div>
+	</div>
+</div>
+
+
+
+</body>
+</html>
