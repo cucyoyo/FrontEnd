@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f4b18a9-5d9a-4374-a8eb-f0ade24f4fbd" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/image/script.js" afterPath="$PROJECT_DIR$/image/script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/table/script.js" afterPath="$PROJECT_DIR$/table/script.js" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/i_movie_refrence" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -15,35 +15,94 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="script.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/image/script.js">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imooc_node_mongodb/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="28" column="11" lean-forward="false" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
-              <folding />
+            <state relative-caret-position="91">
+              <caret line="55" column="16" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/quiz/index.html">
+      <file leaf-file-name="index.jade" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imooc_node_mongodb/views/pages/index.jade">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin.jade" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imooc_node_mongodb/views/pages/admin.jade">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list.jade" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imooc_node_mongodb/views/pages/list.jade">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/image/README.md">
+        <entry file="file://$PROJECT_DIR$/imooc_node_mongodb/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="14" lean-forward="false" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-              <folding />
+            <state>
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imooc_node_mongodb/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="23" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="head.jade" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imooc_node_mongodb/views/includes/head.jade">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.jade" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imooc_node_mongodb/views/includes/header.jade">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="layout.jade" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/imooc_node_mongodb/views/layout.jade">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -57,6 +116,18 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/image/script.js" />
+        <option value="$PROJECT_DIR$/imooc_node_mongodb/views/layout.jade" />
+        <option value="$PROJECT_DIR$/imooc_node_mongodb/views/includes/head.jade" />
+        <option value="$PROJECT_DIR$/imooc_node_mongodb/.bowerrc" />
+        <option value="$PROJECT_DIR$/imooc_node_mongodb/views/includes/header.jade" />
+        <option value="$PROJECT_DIR$/imooc_node_mongodb/views/pages/index.jade" />
+        <option value="$PROJECT_DIR$/imooc_node_mongodb/views/pages/admin.jade" />
+        <option value="$PROJECT_DIR$/imooc_node_mongodb/views/pages/detail.jade" />
+        <option value="$PROJECT_DIR$/imooc_node_mongodb/app.js" />
+        <option value="$PROJECT_DIR$/imooc_node_mongodb/views/pages/list.jade" />
+        <option value="$PROJECT_DIR$/imooc_node_mongodb/README.md" />
+        <option value="$PROJECT_DIR$/imooc_node_mongodb/.gitignore" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -66,77 +137,1130 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/imooc_ref/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_accepts@1.3.5@accepts/node_modules/mime-types/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_accepts@1.3.5@accepts/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_accepts@1.3.5@accepts/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_accepts@1.3.5@accepts/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_acorn-globals@1.0.9@acorn-globals/node_modules/acorn/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_acorn-globals@1.0.9@acorn-globals/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_acorn@1.2.2@acorn/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_acorn@2.7.0@acorn/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_align-text@0.1.4@align-text/node_modules/kind-of/node_modules/is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_align-text@0.1.4@align-text/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_align-text@0.1.4@align-text/node_modules/longest/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_align-text@0.1.4@align-text/node_modules/repeat-string/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_align-text@0.1.4@align-text/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_amdefine@1.0.1@amdefine/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_array-flatten@1.1.1@array-flatten/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_asap@1.0.0@asap/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_async@2.1.4@async/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_async@2.1.4@async/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_bluebird@3.5.0@bluebird/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_body-parser@1.18.2@body-parser/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_body-parser@1.18.2@body-parser/node_modules/content-type/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_body-parser@1.18.2@body-parser/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_body-parser@1.18.2@body-parser/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_body-parser@1.18.2@body-parser/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_body-parser@1.18.2@body-parser/node_modules/http-errors/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_body-parser@1.18.2@body-parser/node_modules/http-errors/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_body-parser@1.18.2@body-parser/node_modules/http-errors/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_body-parser@1.18.2@body-parser/node_modules/http-errors/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_body-parser@1.18.2@body-parser/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_body-parser@1.18.2@body-parser/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_body-parser@1.18.2@body-parser/node_modules/on-finished/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_body-parser@1.18.2@body-parser/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_body-parser@1.18.2@body-parser/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_body-parser@1.18.2@body-parser/node_modules/raw-body/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_body-parser@1.18.2@body-parser/node_modules/raw-body/node_modules/http-errors/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_body-parser@1.18.2@body-parser/node_modules/raw-body/node_modules/http-errors/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_body-parser@1.18.2@body-parser/node_modules/raw-body/node_modules/http-errors/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_body-parser@1.18.2@body-parser/node_modules/raw-body/node_modules/http-errors/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_body-parser@1.18.2@body-parser/node_modules/raw-body/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_body-parser@1.18.2@body-parser/node_modules/raw-body/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_body-parser@1.18.2@body-parser/node_modules/raw-body/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_body-parser@1.18.2@body-parser/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_body-parser@1.18.2@body-parser/node_modules/type-is/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_body-parser@1.18.2@body-parser/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_body-parser@1.18.2@body-parser/node_modules/type-is/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_body-parser@1.18.2@body-parser/node_modules/type-is/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_body-parser@1.18.2@body-parser/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_bson@1.0.6@bson/browser_build/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_bson@1.0.6@bson/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_bytes@3.0.0@bytes/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_camelcase@1.2.1@camelcase/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_center-align@0.1.3@center-align/node_modules/align-text/node_modules/kind-of/node_modules/is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_center-align@0.1.3@center-align/node_modules/align-text/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_center-align@0.1.3@center-align/node_modules/align-text/node_modules/longest/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_center-align@0.1.3@center-align/node_modules/align-text/node_modules/repeat-string/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_center-align@0.1.3@center-align/node_modules/align-text/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_center-align@0.1.3@center-align/node_modules/lazy-cache/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_center-align@0.1.3@center-align/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_character-parser@1.2.1@character-parser/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_clean-css@3.4.28@clean-css/node_modules/commander/node_modules/graceful-readlink/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_clean-css@3.4.28@clean-css/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_clean-css@3.4.28@clean-css/node_modules/source-map/node_modules/amdefine/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_clean-css@3.4.28@clean-css/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_clean-css@3.4.28@clean-css/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_cliui@2.1.0@cliui/node_modules/center-align/node_modules/align-text/node_modules/kind-of/node_modules/is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_cliui@2.1.0@cliui/node_modules/center-align/node_modules/align-text/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_cliui@2.1.0@cliui/node_modules/center-align/node_modules/align-text/node_modules/longest/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_cliui@2.1.0@cliui/node_modules/center-align/node_modules/align-text/node_modules/repeat-string/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_cliui@2.1.0@cliui/node_modules/center-align/node_modules/align-text/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_cliui@2.1.0@cliui/node_modules/center-align/node_modules/lazy-cache/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_cliui@2.1.0@cliui/node_modules/center-align/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_cliui@2.1.0@cliui/node_modules/right-align/node_modules/align-text/node_modules/kind-of/node_modules/is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_cliui@2.1.0@cliui/node_modules/right-align/node_modules/align-text/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_cliui@2.1.0@cliui/node_modules/right-align/node_modules/align-text/node_modules/longest/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_cliui@2.1.0@cliui/node_modules/right-align/node_modules/align-text/node_modules/repeat-string/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_cliui@2.1.0@cliui/node_modules/right-align/node_modules/align-text/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_cliui@2.1.0@cliui/node_modules/right-align/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_cliui@2.1.0@cliui/node_modules/wordwrap/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_cliui@2.1.0@cliui/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_commander@2.6.0@commander/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_commander@2.8.1@commander/node_modules/graceful-readlink/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_commander@2.8.1@commander/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_constantinople@3.0.2@constantinople/node_modules/acorn/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_constantinople@3.0.2@constantinople/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_content-disposition@0.5.2@content-disposition/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_content-type@1.0.4@content-type/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_cookie-signature@1.0.6@cookie-signature/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_cookie@0.3.1@cookie/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_css-parse@1.0.4@css-parse/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_css-stringify@1.0.5@css-stringify/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_css@1.0.8@css/node_modules/css-parse/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_css@1.0.8@css/node_modules/css-stringify/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_css@1.0.8@css/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_debug@2.6.9@debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_debug@2.6.9@debug/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_decamelize@1.2.0@decamelize/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_depd@1.1.1@depd/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_depd@1.1.2@depd/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_destroy@1.0.4@destroy/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_ee-first@1.1.1@ee-first/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_encodeurl@1.0.2@encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_escape-html@1.0.3@escape-html/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_etag@1.8.1@etag/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/accepts/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/accepts/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/array-flatten/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/body-parser/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/body-parser/node_modules/content-type/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/body-parser/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/body-parser/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/body-parser/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/body-parser/node_modules/http-errors/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/body-parser/node_modules/http-errors/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/body-parser/node_modules/http-errors/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/body-parser/node_modules/http-errors/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/body-parser/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/body-parser/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/body-parser/node_modules/on-finished/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/body-parser/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/body-parser/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/body-parser/node_modules/raw-body/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/body-parser/node_modules/raw-body/node_modules/http-errors/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/body-parser/node_modules/raw-body/node_modules/http-errors/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/body-parser/node_modules/raw-body/node_modules/http-errors/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/body-parser/node_modules/raw-body/node_modules/http-errors/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/body-parser/node_modules/raw-body/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/body-parser/node_modules/raw-body/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/body-parser/node_modules/raw-body/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/body-parser/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/body-parser/node_modules/type-is/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/body-parser/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/body-parser/node_modules/type-is/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/body-parser/node_modules/type-is/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/body-parser/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/content-disposition/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/content-type/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/cookie-signature/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/finalhandler/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/finalhandler/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/finalhandler/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/finalhandler/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/finalhandler/node_modules/on-finished/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/finalhandler/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/finalhandler/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/finalhandler/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/finalhandler/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/finalhandler/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/merge-descriptors/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/methods/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/on-finished/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/path-to-regexp/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/proxy-addr/node_modules/forwarded/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/proxy-addr/node_modules/ipaddr.js/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/proxy-addr/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/send/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/send/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/send/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/send/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/send/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/send/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/send/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/send/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/send/node_modules/http-errors/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/send/node_modules/http-errors/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/send/node_modules/http-errors/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/send/node_modules/http-errors/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/send/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/send/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/send/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/send/node_modules/on-finished/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/send/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/send/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/send/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/serve-static/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/serve-static/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/serve-static/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/serve-static/node_modules/send/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/serve-static/node_modules/send/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/serve-static/node_modules/send/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/serve-static/node_modules/send/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/serve-static/node_modules/send/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/serve-static/node_modules/send/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/serve-static/node_modules/send/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/serve-static/node_modules/send/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/serve-static/node_modules/send/node_modules/http-errors/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/serve-static/node_modules/send/node_modules/http-errors/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/serve-static/node_modules/send/node_modules/http-errors/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/serve-static/node_modules/send/node_modules/http-errors/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/serve-static/node_modules/send/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/serve-static/node_modules/send/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/serve-static/node_modules/send/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/serve-static/node_modules/send/node_modules/on-finished/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/serve-static/node_modules/send/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/serve-static/node_modules/send/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/serve-static/node_modules/send/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/serve-static/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/serve-static/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/type-is/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/type-is/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/type-is/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/utils-merge/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/node_modules/vary/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_express@4.16.3@express/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_finalhandler@1.1.1@finalhandler/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_finalhandler@1.1.1@finalhandler/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_finalhandler@1.1.1@finalhandler/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_finalhandler@1.1.1@finalhandler/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_finalhandler@1.1.1@finalhandler/node_modules/on-finished/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_finalhandler@1.1.1@finalhandler/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_finalhandler@1.1.1@finalhandler/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_finalhandler@1.1.1@finalhandler/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_finalhandler@1.1.1@finalhandler/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_finalhandler@1.1.1@finalhandler/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_forwarded@0.1.2@forwarded/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_fresh@0.5.2@fresh/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_graceful-readlink@1.0.1@graceful-readlink/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_http-errors@1.6.2@http-errors/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_http-errors@1.6.2@http-errors/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_http-errors@1.6.2@http-errors/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_http-errors@1.6.2@http-errors/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_http-errors@1.6.2@http-errors/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_http-errors@1.6.3@http-errors/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_http-errors@1.6.3@http-errors/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_http-errors@1.6.3@http-errors/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_http-errors@1.6.3@http-errors/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_http-errors@1.6.3@http-errors/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_iconv-lite@0.4.19@iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_inherits@2.0.3@inherits/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_ipaddr.js@1.6.0@ipaddr.js/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_is-buffer@1.1.6@is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_is-promise@1.0.1@is-promise/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_is-promise@2.1.0@is-promise/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_jade@1.11.0@jade/node_modules/character-parser/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_jade@1.11.0@jade/node_modules/clean-css/node_modules/commander/node_modules/graceful-readlink/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_jade@1.11.0@jade/node_modules/clean-css/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_jade@1.11.0@jade/node_modules/clean-css/node_modules/source-map/node_modules/amdefine/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_jade@1.11.0@jade/node_modules/clean-css/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_jade@1.11.0@jade/node_modules/clean-css/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_jade@1.11.0@jade/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_jade@1.11.0@jade/node_modules/constantinople/node_modules/acorn/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_jade@1.11.0@jade/node_modules/constantinople/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_jade@1.11.0@jade/node_modules/jstransformer/node_modules/is-promise/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_jade@1.11.0@jade/node_modules/jstransformer/node_modules/promise/node_modules/asap/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_jade@1.11.0@jade/node_modules/jstransformer/node_modules/promise/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_jade@1.11.0@jade/node_modules/jstransformer/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_jade@1.11.0@jade/node_modules/mkdirp/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_jade@1.11.0@jade/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_jade@1.11.0@jade/node_modules/transformers/node_modules/css/node_modules/css-parse/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_jade@1.11.0@jade/node_modules/transformers/node_modules/css/node_modules/css-stringify/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_jade@1.11.0@jade/node_modules/transformers/node_modules/css/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_jade@1.11.0@jade/node_modules/transformers/node_modules/promise/node_modules/is-promise/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_jade@1.11.0@jade/node_modules/transformers/node_modules/promise/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_jade@1.11.0@jade/node_modules/transformers/node_modules/uglify-js/node_modules/optimist/node_modules/wordwrap/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_jade@1.11.0@jade/node_modules/transformers/node_modules/uglify-js/node_modules/optimist/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_jade@1.11.0@jade/node_modules/transformers/node_modules/uglify-js/node_modules/source-map/node_modules/amdefine/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_jade@1.11.0@jade/node_modules/transformers/node_modules/uglify-js/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_jade@1.11.0@jade/node_modules/transformers/node_modules/uglify-js/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_jade@1.11.0@jade/node_modules/transformers/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_jade@1.11.0@jade/node_modules/uglify-js/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_jade@1.11.0@jade/node_modules/uglify-js/node_modules/uglify-to-browserify/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_jade@1.11.0@jade/node_modules/uglify-js/node_modules/yargs/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_jade@1.11.0@jade/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/node_modules/kind-of/node_modules/is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_jade@1.11.0@jade/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_jade@1.11.0@jade/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/node_modules/longest/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_jade@1.11.0@jade/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/node_modules/repeat-string/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_jade@1.11.0@jade/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_jade@1.11.0@jade/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/lazy-cache/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_jade@1.11.0@jade/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_jade@1.11.0@jade/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/node_modules/kind-of/node_modules/is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_jade@1.11.0@jade/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_jade@1.11.0@jade/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/node_modules/longest/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_jade@1.11.0@jade/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/node_modules/repeat-string/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_jade@1.11.0@jade/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_jade@1.11.0@jade/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_jade@1.11.0@jade/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/wordwrap/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_jade@1.11.0@jade/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_jade@1.11.0@jade/node_modules/uglify-js/node_modules/yargs/node_modules/decamelize/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_jade@1.11.0@jade/node_modules/uglify-js/node_modules/yargs/node_modules/window-size/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_jade@1.11.0@jade/node_modules/uglify-js/node_modules/yargs/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_jade@1.11.0@jade/node_modules/uglify-js/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_jade@1.11.0@jade/node_modules/void-elements/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_jade@1.11.0@jade/node_modules/with/node_modules/acorn-globals/node_modules/acorn/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_jade@1.11.0@jade/node_modules/with/node_modules/acorn-globals/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_jade@1.11.0@jade/node_modules/with/node_modules/acorn/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_jade@1.11.0@jade/node_modules/with/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_jade@1.11.0@jade/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_jstransformer@0.0.2@jstransformer/node_modules/is-promise/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_jstransformer@0.0.2@jstransformer/node_modules/promise/node_modules/asap/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_jstransformer@0.0.2@jstransformer/node_modules/promise/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_jstransformer@0.0.2@jstransformer/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_kareem@2.0.7@kareem/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_kind-of@3.2.2@kind-of/node_modules/is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_kind-of@3.2.2@kind-of/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_lazy-cache@1.0.4@lazy-cache/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_lodash.get@4.4.2@lodash.get/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_lodash@4.17.10@lodash/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_longest@1.0.1@longest/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_media-typer@0.3.0@media-typer/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_merge-descriptors@1.0.1@merge-descriptors/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_methods@1.1.2@methods/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mime-db@1.33.0@mime-db/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mime-types@2.1.18@mime-types/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mime-types@2.1.18@mime-types/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mime@1.4.1@mime/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_minimist@0.0.8@minimist/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mkdirp@0.5.1@mkdirp/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mkdirp@0.5.1@mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_moment@2.22.1@moment/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mongodb-core@3.0.7@mongodb-core/node_modules/bson/browser_build/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mongodb-core@3.0.7@mongodb-core/node_modules/bson/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mongodb-core@3.0.7@mongodb-core/node_modules/require_optional/node_modules/resolve-from/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mongodb-core@3.0.7@mongodb-core/node_modules/require_optional/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mongodb-core@3.0.7@mongodb-core/node_modules/require_optional/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mongodb-core@3.0.7@mongodb-core/node_modules/require_optional/test/nestedTest/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mongodb-core@3.0.7@mongodb-core/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mongodb@3.0.7@mongodb/node_modules/mongodb-core/node_modules/bson/browser_build/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mongodb@3.0.7@mongodb/node_modules/mongodb-core/node_modules/bson/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mongodb@3.0.7@mongodb/node_modules/mongodb-core/node_modules/require_optional/node_modules/resolve-from/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mongodb@3.0.7@mongodb/node_modules/mongodb-core/node_modules/require_optional/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mongodb@3.0.7@mongodb/node_modules/mongodb-core/node_modules/require_optional/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mongodb@3.0.7@mongodb/node_modules/mongodb-core/node_modules/require_optional/test/nestedTest/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mongodb@3.0.7@mongodb/node_modules/mongodb-core/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mongodb@3.0.7@mongodb/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mongoose-legacy-pluralize@1.0.2@mongoose-legacy-pluralize/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mongoose@5.0.17@mongoose/examples/aggregate/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mongoose@5.0.17@mongoose/examples/express/connection-sharing/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mongoose@5.0.17@mongoose/examples/geospatial/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mongoose@5.0.17@mongoose/examples/lean/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mongoose@5.0.17@mongoose/examples/mapreduce/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mongoose@5.0.17@mongoose/examples/promises/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mongoose@5.0.17@mongoose/examples/querybuilder/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mongoose@5.0.17@mongoose/examples/replicasets/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mongoose@5.0.17@mongoose/node_modules/async/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mongoose@5.0.17@mongoose/node_modules/async/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mongoose@5.0.17@mongoose/node_modules/bson/browser_build/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mongoose@5.0.17@mongoose/node_modules/bson/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mongoose@5.0.17@mongoose/node_modules/kareem/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mongoose@5.0.17@mongoose/node_modules/lodash.get/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mongoose@5.0.17@mongoose/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/browser_build/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mongoose@5.0.17@mongoose/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mongoose@5.0.17@mongoose/node_modules/mongodb/node_modules/mongodb-core/node_modules/require_optional/node_modules/resolve-from/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mongoose@5.0.17@mongoose/node_modules/mongodb/node_modules/mongodb-core/node_modules/require_optional/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mongoose@5.0.17@mongoose/node_modules/mongodb/node_modules/mongodb-core/node_modules/require_optional/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mongoose@5.0.17@mongoose/node_modules/mongodb/node_modules/mongodb-core/node_modules/require_optional/test/nestedTest/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mongoose@5.0.17@mongoose/node_modules/mongodb/node_modules/mongodb-core/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mongoose@5.0.17@mongoose/node_modules/mongodb/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mongoose@5.0.17@mongoose/node_modules/mongoose-legacy-pluralize/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mongoose@5.0.17@mongoose/node_modules/mpath/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mongoose@5.0.17@mongoose/node_modules/mquery/node_modules/bluebird/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mongoose@5.0.17@mongoose/node_modules/mquery/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mongoose@5.0.17@mongoose/node_modules/mquery/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mongoose@5.0.17@mongoose/node_modules/mquery/node_modules/regexp-clone/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mongoose@5.0.17@mongoose/node_modules/mquery/node_modules/sliced/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mongoose@5.0.17@mongoose/node_modules/mquery/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mongoose@5.0.17@mongoose/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mongoose@5.0.17@mongoose/node_modules/regexp-clone/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mongoose@5.0.17@mongoose/node_modules/sliced/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mongoose@5.0.17@mongoose/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mpath@0.4.1@mpath/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mquery@3.0.0@mquery/node_modules/bluebird/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mquery@3.0.0@mquery/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mquery@3.0.0@mquery/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mquery@3.0.0@mquery/node_modules/regexp-clone/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mquery@3.0.0@mquery/node_modules/sliced/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_mquery@3.0.0@mquery/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_ms@2.0.0@ms/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_negotiator@0.6.1@negotiator/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_on-finished@2.3.0@on-finished/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_on-finished@2.3.0@on-finished/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_optimist@0.3.7@optimist/node_modules/wordwrap/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_optimist@0.3.7@optimist/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_parseurl@1.3.2@parseurl/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_path-to-regexp@0.1.7@path-to-regexp/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_promise@2.0.0@promise/node_modules/is-promise/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_promise@2.0.0@promise/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_promise@6.1.0@promise/node_modules/asap/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_promise@6.1.0@promise/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_proxy-addr@2.0.3@proxy-addr/node_modules/forwarded/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_proxy-addr@2.0.3@proxy-addr/node_modules/ipaddr.js/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_proxy-addr@2.0.3@proxy-addr/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_qs@6.5.1@qs/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_range-parser@1.2.0@range-parser/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_raw-body@2.3.2@raw-body/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_raw-body@2.3.2@raw-body/node_modules/http-errors/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_raw-body@2.3.2@raw-body/node_modules/http-errors/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_raw-body@2.3.2@raw-body/node_modules/http-errors/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_raw-body@2.3.2@raw-body/node_modules/http-errors/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_raw-body@2.3.2@raw-body/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_raw-body@2.3.2@raw-body/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_raw-body@2.3.2@raw-body/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_raw-body@2.3.2@raw-body/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_regexp-clone@0.0.1@regexp-clone/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_repeat-string@1.6.1@repeat-string/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_require_optional@1.0.1@require_optional/node_modules/resolve-from/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_require_optional@1.0.1@require_optional/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_require_optional@1.0.1@require_optional/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_require_optional@1.0.1@require_optional/test/nestedTest/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_resolve-from@2.0.0@resolve-from/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_right-align@0.1.3@right-align/node_modules/align-text/node_modules/kind-of/node_modules/is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_right-align@0.1.3@right-align/node_modules/align-text/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_right-align@0.1.3@right-align/node_modules/align-text/node_modules/longest/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_right-align@0.1.3@right-align/node_modules/align-text/node_modules/repeat-string/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_right-align@0.1.3@right-align/node_modules/align-text/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_right-align@0.1.3@right-align/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_safe-buffer@5.1.1@safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_semver@5.5.0@semver/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_send@0.16.2@send/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_send@0.16.2@send/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_send@0.16.2@send/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_send@0.16.2@send/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_send@0.16.2@send/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_send@0.16.2@send/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_send@0.16.2@send/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_send@0.16.2@send/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_send@0.16.2@send/node_modules/http-errors/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_send@0.16.2@send/node_modules/http-errors/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_send@0.16.2@send/node_modules/http-errors/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_send@0.16.2@send/node_modules/http-errors/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_send@0.16.2@send/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_send@0.16.2@send/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_send@0.16.2@send/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_send@0.16.2@send/node_modules/on-finished/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_send@0.16.2@send/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_send@0.16.2@send/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_send@0.16.2@send/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_send@0.16.2@send/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_serve-static@1.13.2@serve-static/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_serve-static@1.13.2@serve-static/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_serve-static@1.13.2@serve-static/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_serve-static@1.13.2@serve-static/node_modules/send/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_serve-static@1.13.2@serve-static/node_modules/send/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_serve-static@1.13.2@serve-static/node_modules/send/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_serve-static@1.13.2@serve-static/node_modules/send/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_serve-static@1.13.2@serve-static/node_modules/send/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_serve-static@1.13.2@serve-static/node_modules/send/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_serve-static@1.13.2@serve-static/node_modules/send/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_serve-static@1.13.2@serve-static/node_modules/send/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_serve-static@1.13.2@serve-static/node_modules/send/node_modules/http-errors/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_serve-static@1.13.2@serve-static/node_modules/send/node_modules/http-errors/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_serve-static@1.13.2@serve-static/node_modules/send/node_modules/http-errors/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_serve-static@1.13.2@serve-static/node_modules/send/node_modules/http-errors/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_serve-static@1.13.2@serve-static/node_modules/send/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_serve-static@1.13.2@serve-static/node_modules/send/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_serve-static@1.13.2@serve-static/node_modules/send/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_serve-static@1.13.2@serve-static/node_modules/send/node_modules/on-finished/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_serve-static@1.13.2@serve-static/node_modules/send/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_serve-static@1.13.2@serve-static/node_modules/send/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_serve-static@1.13.2@serve-static/node_modules/send/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_serve-static@1.13.2@serve-static/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_serve-static@1.13.2@serve-static/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_setprototypeof@1.0.3@setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_setprototypeof@1.1.0@setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_sliced@0.0.5@sliced/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_sliced@1.0.1@sliced/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_source-map@0.1.43@source-map/node_modules/amdefine/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_source-map@0.1.43@source-map/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_source-map@0.4.4@source-map/node_modules/amdefine/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_source-map@0.4.4@source-map/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_source-map@0.5.7@source-map/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_statuses@1.4.0@statuses/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_statuses@1.5.0@statuses/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_transformers@2.1.0@transformers/node_modules/css/node_modules/css-parse/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_transformers@2.1.0@transformers/node_modules/css/node_modules/css-stringify/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_transformers@2.1.0@transformers/node_modules/css/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_transformers@2.1.0@transformers/node_modules/promise/node_modules/is-promise/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_transformers@2.1.0@transformers/node_modules/promise/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_transformers@2.1.0@transformers/node_modules/uglify-js/node_modules/optimist/node_modules/wordwrap/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_transformers@2.1.0@transformers/node_modules/uglify-js/node_modules/optimist/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_transformers@2.1.0@transformers/node_modules/uglify-js/node_modules/source-map/node_modules/amdefine/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_transformers@2.1.0@transformers/node_modules/uglify-js/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_transformers@2.1.0@transformers/node_modules/uglify-js/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_transformers@2.1.0@transformers/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_type-is@1.6.16@type-is/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_type-is@1.6.16@type-is/node_modules/mime-types/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_type-is@1.6.16@type-is/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_type-is@1.6.16@type-is/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_uglify-js@2.2.5@uglify-js/node_modules/optimist/node_modules/wordwrap/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_uglify-js@2.2.5@uglify-js/node_modules/optimist/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_uglify-js@2.2.5@uglify-js/node_modules/source-map/node_modules/amdefine/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_uglify-js@2.2.5@uglify-js/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_uglify-js@2.2.5@uglify-js/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_uglify-js@2.8.29@uglify-js/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_uglify-js@2.8.29@uglify-js/node_modules/uglify-to-browserify/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_uglify-js@2.8.29@uglify-js/node_modules/yargs/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_uglify-js@2.8.29@uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/node_modules/kind-of/node_modules/is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_uglify-js@2.8.29@uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_uglify-js@2.8.29@uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/node_modules/longest/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_uglify-js@2.8.29@uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/node_modules/repeat-string/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_uglify-js@2.8.29@uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_uglify-js@2.8.29@uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/lazy-cache/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_uglify-js@2.8.29@uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_uglify-js@2.8.29@uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/node_modules/kind-of/node_modules/is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_uglify-js@2.8.29@uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_uglify-js@2.8.29@uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/node_modules/longest/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_uglify-js@2.8.29@uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/node_modules/repeat-string/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_uglify-js@2.8.29@uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_uglify-js@2.8.29@uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_uglify-js@2.8.29@uglify-js/node_modules/yargs/node_modules/cliui/node_modules/wordwrap/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_uglify-js@2.8.29@uglify-js/node_modules/yargs/node_modules/cliui/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_uglify-js@2.8.29@uglify-js/node_modules/yargs/node_modules/decamelize/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_uglify-js@2.8.29@uglify-js/node_modules/yargs/node_modules/window-size/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_uglify-js@2.8.29@uglify-js/node_modules/yargs/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_uglify-js@2.8.29@uglify-js/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_uglify-to-browserify@1.0.2@uglify-to-browserify/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_unpipe@1.0.0@unpipe/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_utils-merge@1.0.1@utils-merge/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_vary@1.1.2@vary/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_void-elements@2.0.1@void-elements/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_window-size@0.1.0@window-size/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_with@4.0.3@with/node_modules/acorn-globals/node_modules/acorn/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_with@4.0.3@with/node_modules/acorn-globals/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_with@4.0.3@with/node_modules/acorn/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_with@4.0.3@with/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_wordwrap@0.0.2@wordwrap/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_wordwrap@0.0.3@wordwrap/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_yargs@3.10.0@yargs/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_yargs@3.10.0@yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/node_modules/kind-of/node_modules/is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_yargs@3.10.0@yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_yargs@3.10.0@yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/node_modules/longest/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_yargs@3.10.0@yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/node_modules/repeat-string/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_yargs@3.10.0@yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_yargs@3.10.0@yargs/node_modules/cliui/node_modules/center-align/node_modules/lazy-cache/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_yargs@3.10.0@yargs/node_modules/cliui/node_modules/center-align/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_yargs@3.10.0@yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/node_modules/kind-of/node_modules/is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_yargs@3.10.0@yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_yargs@3.10.0@yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/node_modules/longest/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_yargs@3.10.0@yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/node_modules/repeat-string/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_yargs@3.10.0@yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_yargs@3.10.0@yargs/node_modules/cliui/node_modules/right-align/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_yargs@3.10.0@yargs/node_modules/cliui/node_modules/wordwrap/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_yargs@3.10.0@yargs/node_modules/cliui/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_yargs@3.10.0@yargs/node_modules/decamelize/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_yargs@3.10.0@yargs/node_modules/window-size/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/_yargs@3.10.0@yargs/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/accepts/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/accepts/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/acorn-globals/node_modules/acorn/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/acorn-globals/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/acorn/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/align-text/node_modules/kind-of/node_modules/is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/align-text/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/align-text/node_modules/longest/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/align-text/node_modules/repeat-string/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/align-text/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/amdefine/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/array-flatten/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/asap/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/async/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/async/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/bluebird/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/body-parser/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/body-parser/node_modules/content-type/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/body-parser/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/body-parser/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/body-parser/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/body-parser/node_modules/http-errors/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/body-parser/node_modules/http-errors/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/body-parser/node_modules/http-errors/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/body-parser/node_modules/http-errors/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/body-parser/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/body-parser/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/body-parser/node_modules/on-finished/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/body-parser/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/body-parser/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/body-parser/node_modules/raw-body/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/body-parser/node_modules/raw-body/node_modules/http-errors/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/body-parser/node_modules/raw-body/node_modules/http-errors/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/body-parser/node_modules/raw-body/node_modules/http-errors/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/body-parser/node_modules/raw-body/node_modules/http-errors/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/body-parser/node_modules/raw-body/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/body-parser/node_modules/raw-body/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/body-parser/node_modules/raw-body/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/body-parser/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/body-parser/node_modules/type-is/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/body-parser/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/body-parser/node_modules/type-is/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/body-parser/node_modules/type-is/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/body-parser/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/bson/browser_build/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/bson/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/center-align/node_modules/align-text/node_modules/kind-of/node_modules/is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/center-align/node_modules/align-text/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/center-align/node_modules/align-text/node_modules/longest/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/center-align/node_modules/align-text/node_modules/repeat-string/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/center-align/node_modules/align-text/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/center-align/node_modules/lazy-cache/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/center-align/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/character-parser/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/clean-css/node_modules/commander/node_modules/graceful-readlink/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/clean-css/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/clean-css/node_modules/source-map/node_modules/amdefine/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/clean-css/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/clean-css/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/cliui/node_modules/center-align/node_modules/align-text/node_modules/kind-of/node_modules/is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/cliui/node_modules/center-align/node_modules/align-text/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/cliui/node_modules/center-align/node_modules/align-text/node_modules/longest/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/cliui/node_modules/center-align/node_modules/align-text/node_modules/repeat-string/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/cliui/node_modules/center-align/node_modules/align-text/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/cliui/node_modules/center-align/node_modules/lazy-cache/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/cliui/node_modules/center-align/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/cliui/node_modules/right-align/node_modules/align-text/node_modules/kind-of/node_modules/is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/cliui/node_modules/right-align/node_modules/align-text/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/cliui/node_modules/right-align/node_modules/align-text/node_modules/longest/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/cliui/node_modules/right-align/node_modules/align-text/node_modules/repeat-string/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/cliui/node_modules/right-align/node_modules/align-text/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/cliui/node_modules/right-align/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/cliui/node_modules/wordwrap/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/cliui/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/commander/node_modules/graceful-readlink/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/constantinople/node_modules/acorn/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/constantinople/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/content-disposition/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/content-type/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/cookie-signature/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/css-parse/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/css-stringify/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/css/node_modules/css-parse/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/css/node_modules/css-stringify/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/css/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/decamelize/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/accepts/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/accepts/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/array-flatten/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/body-parser/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/body-parser/node_modules/content-type/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/body-parser/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/body-parser/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/body-parser/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/body-parser/node_modules/http-errors/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/body-parser/node_modules/http-errors/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/body-parser/node_modules/http-errors/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/body-parser/node_modules/http-errors/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/body-parser/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/body-parser/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/body-parser/node_modules/on-finished/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/body-parser/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/body-parser/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/body-parser/node_modules/raw-body/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/body-parser/node_modules/raw-body/node_modules/http-errors/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/body-parser/node_modules/raw-body/node_modules/http-errors/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/body-parser/node_modules/raw-body/node_modules/http-errors/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/body-parser/node_modules/raw-body/node_modules/http-errors/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/body-parser/node_modules/raw-body/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/body-parser/node_modules/raw-body/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/body-parser/node_modules/raw-body/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/body-parser/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/body-parser/node_modules/type-is/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/body-parser/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/body-parser/node_modules/type-is/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/body-parser/node_modules/type-is/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/body-parser/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/content-disposition/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/content-type/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/cookie-signature/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/finalhandler/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/finalhandler/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/finalhandler/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/finalhandler/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/finalhandler/node_modules/on-finished/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/finalhandler/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/finalhandler/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/finalhandler/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/finalhandler/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/finalhandler/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/merge-descriptors/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/methods/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/on-finished/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/path-to-regexp/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/proxy-addr/node_modules/forwarded/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/proxy-addr/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/send/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/send/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/send/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/send/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/send/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/send/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/send/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/send/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/send/node_modules/http-errors/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/send/node_modules/http-errors/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/send/node_modules/http-errors/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/send/node_modules/http-errors/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/send/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/send/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/send/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/send/node_modules/on-finished/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/send/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/send/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/send/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/serve-static/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/serve-static/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/serve-static/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/http-errors/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/http-errors/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/http-errors/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/http-errors/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/on-finished/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/serve-static/node_modules/send/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/serve-static/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/serve-static/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/type-is/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/type-is/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/type-is/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/utils-merge/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/node_modules/vary/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/express/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/finalhandler/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/finalhandler/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/finalhandler/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/finalhandler/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/finalhandler/node_modules/on-finished/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/finalhandler/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/finalhandler/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/finalhandler/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/finalhandler/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/finalhandler/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/forwarded/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/graceful-readlink/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/http-errors/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/http-errors/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/http-errors/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/http-errors/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/ipaddr.js/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/is-promise/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/jade/node_modules/character-parser/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/jade/node_modules/clean-css/node_modules/commander/node_modules/graceful-readlink/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/jade/node_modules/clean-css/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/jade/node_modules/clean-css/node_modules/source-map/node_modules/amdefine/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/jade/node_modules/clean-css/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/jade/node_modules/clean-css/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/jade/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/jade/node_modules/constantinople/node_modules/acorn/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/jade/node_modules/constantinople/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/jade/node_modules/jstransformer/node_modules/is-promise/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/jade/node_modules/jstransformer/node_modules/promise/node_modules/asap/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/jade/node_modules/jstransformer/node_modules/promise/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/jade/node_modules/jstransformer/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/jade/node_modules/mkdirp/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/jade/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/jade/node_modules/transformers/node_modules/css/node_modules/css-parse/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/jade/node_modules/transformers/node_modules/css/node_modules/css-stringify/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/jade/node_modules/transformers/node_modules/css/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/jade/node_modules/transformers/node_modules/promise/node_modules/is-promise/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/jade/node_modules/transformers/node_modules/promise/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/optimist/node_modules/wordwrap/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/optimist/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/source-map/node_modules/amdefine/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/jade/node_modules/transformers/node_modules/uglify-js/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/jade/node_modules/transformers/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/jade/node_modules/uglify-js/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/jade/node_modules/uglify-js/node_modules/uglify-to-browserify/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/jade/node_modules/uglify-js/node_modules/yargs/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/jade/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/node_modules/kind-of/node_modules/is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/jade/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/jade/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/node_modules/longest/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/jade/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/node_modules/repeat-string/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/jade/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/jade/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/lazy-cache/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/jade/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/jade/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/node_modules/kind-of/node_modules/is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/jade/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/jade/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/node_modules/longest/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/jade/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/node_modules/repeat-string/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/jade/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/jade/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/jade/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/wordwrap/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/jade/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/jade/node_modules/uglify-js/node_modules/yargs/node_modules/decamelize/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/jade/node_modules/uglify-js/node_modules/yargs/node_modules/window-size/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/jade/node_modules/uglify-js/node_modules/yargs/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/jade/node_modules/uglify-js/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/jade/node_modules/void-elements/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/jade/node_modules/with/node_modules/acorn-globals/node_modules/acorn/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/jade/node_modules/with/node_modules/acorn-globals/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/jade/node_modules/with/node_modules/acorn/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/jade/node_modules/with/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/jade/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/jstransformer/node_modules/is-promise/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/jstransformer/node_modules/promise/node_modules/asap/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/jstransformer/node_modules/promise/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/jstransformer/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/kareem/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/kind-of/node_modules/is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/lazy-cache/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/lodash.get/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/longest/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/merge-descriptors/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/methods/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mime-types/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mkdirp/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/moment/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mongodb-core/node_modules/bson/browser_build/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mongodb-core/node_modules/bson/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mongodb-core/node_modules/require_optional/node_modules/resolve-from/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mongodb-core/node_modules/require_optional/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mongodb-core/node_modules/require_optional/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mongodb-core/node_modules/require_optional/test/nestedTest/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mongodb-core/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/browser_build/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mongodb/node_modules/mongodb-core/node_modules/require_optional/node_modules/resolve-from/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mongodb/node_modules/mongodb-core/node_modules/require_optional/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mongodb/node_modules/mongodb-core/node_modules/require_optional/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mongodb/node_modules/mongodb-core/node_modules/require_optional/test/nestedTest/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mongodb/node_modules/mongodb-core/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mongodb/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mongoose-legacy-pluralize/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mongoose/examples/aggregate/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mongoose/examples/express/connection-sharing/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mongoose/examples/geospatial/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mongoose/examples/lean/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mongoose/examples/mapreduce/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mongoose/examples/promises/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mongoose/examples/querybuilder/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mongoose/examples/replicasets/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mongoose/node_modules/async/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mongoose/node_modules/async/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mongoose/node_modules/bson/browser_build/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mongoose/node_modules/bson/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mongoose/node_modules/kareem/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mongoose/node_modules/lodash.get/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mongoose/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/browser_build/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mongoose/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mongoose/node_modules/mongodb/node_modules/mongodb-core/node_modules/require_optional/node_modules/resolve-from/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mongoose/node_modules/mongodb/node_modules/mongodb-core/node_modules/require_optional/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mongoose/node_modules/mongodb/node_modules/mongodb-core/node_modules/require_optional/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mongoose/node_modules/mongodb/node_modules/mongodb-core/node_modules/require_optional/test/nestedTest/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mongoose/node_modules/mongodb/node_modules/mongodb-core/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mongoose/node_modules/mongodb/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mongoose/node_modules/mongoose-legacy-pluralize/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mongoose/node_modules/mpath/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mongoose/node_modules/mquery/node_modules/bluebird/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mongoose/node_modules/mquery/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mongoose/node_modules/mquery/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mongoose/node_modules/mquery/node_modules/regexp-clone/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mongoose/node_modules/mquery/node_modules/sliced/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mongoose/node_modules/mquery/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mongoose/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mongoose/node_modules/regexp-clone/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mongoose/node_modules/sliced/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mongoose/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mpath/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mquery/node_modules/bluebird/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mquery/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mquery/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mquery/node_modules/regexp-clone/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mquery/node_modules/sliced/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/mquery/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/on-finished/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/optimist/node_modules/wordwrap/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/optimist/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/path-to-regexp/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/promise/node_modules/asap/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/promise/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/proxy-addr/node_modules/forwarded/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/proxy-addr/node_modules/ipaddr.js/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/proxy-addr/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/raw-body/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/raw-body/node_modules/http-errors/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/raw-body/node_modules/http-errors/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/raw-body/node_modules/http-errors/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/raw-body/node_modules/http-errors/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/raw-body/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/raw-body/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/raw-body/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/regexp-clone/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/repeat-string/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/require_optional/node_modules/resolve-from/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/require_optional/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/require_optional/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/require_optional/test/nestedTest/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/resolve-from/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/right-align/node_modules/align-text/node_modules/kind-of/node_modules/is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/right-align/node_modules/align-text/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/right-align/node_modules/align-text/node_modules/longest/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/right-align/node_modules/align-text/node_modules/repeat-string/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/right-align/node_modules/align-text/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/right-align/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/send/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/send/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/send/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/send/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/send/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/send/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/send/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/send/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/send/node_modules/http-errors/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/send/node_modules/http-errors/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/send/node_modules/http-errors/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/send/node_modules/http-errors/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/send/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/send/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/send/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/send/node_modules/on-finished/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/send/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/send/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/send/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/serve-static/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/serve-static/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/serve-static/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/serve-static/node_modules/send/node_modules/debug/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/serve-static/node_modules/send/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/serve-static/node_modules/send/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/serve-static/node_modules/send/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/serve-static/node_modules/send/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/serve-static/node_modules/send/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/serve-static/node_modules/send/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/serve-static/node_modules/send/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/serve-static/node_modules/send/node_modules/http-errors/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/serve-static/node_modules/send/node_modules/http-errors/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/serve-static/node_modules/send/node_modules/http-errors/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/serve-static/node_modules/send/node_modules/http-errors/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/serve-static/node_modules/send/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/serve-static/node_modules/send/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/serve-static/node_modules/send/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/serve-static/node_modules/send/node_modules/on-finished/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/serve-static/node_modules/send/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/serve-static/node_modules/send/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/serve-static/node_modules/send/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/serve-static/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/serve-static/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/sliced/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/transformers/node_modules/css/node_modules/css-parse/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/transformers/node_modules/css/node_modules/css-stringify/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/transformers/node_modules/css/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/transformers/node_modules/promise/node_modules/is-promise/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/transformers/node_modules/promise/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/transformers/node_modules/uglify-js/node_modules/optimist/node_modules/wordwrap/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/transformers/node_modules/uglify-js/node_modules/optimist/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/transformers/node_modules/uglify-js/node_modules/source-map/node_modules/amdefine/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/transformers/node_modules/uglify-js/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/transformers/node_modules/uglify-js/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/transformers/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/type-is/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/type-is/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/type-is/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/uglify-js/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/uglify-js/node_modules/uglify-to-browserify/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/uglify-js/node_modules/yargs/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/node_modules/kind-of/node_modules/is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/node_modules/longest/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/node_modules/repeat-string/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/lazy-cache/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/center-align/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/node_modules/kind-of/node_modules/is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/node_modules/longest/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/node_modules/repeat-string/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/right-align/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/node_modules/wordwrap/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/uglify-js/node_modules/yargs/node_modules/cliui/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/uglify-js/node_modules/yargs/node_modules/decamelize/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/uglify-js/node_modules/yargs/node_modules/window-size/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/uglify-js/node_modules/yargs/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/uglify-js/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/uglify-to-browserify/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/utils-merge/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/vary/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/void-elements/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/window-size/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/with/node_modules/acorn-globals/node_modules/acorn/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/with/node_modules/acorn-globals/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/with/node_modules/acorn/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/with/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/wordwrap/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/yargs/node_modules/camelcase/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/node_modules/kind-of/node_modules/is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/node_modules/longest/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/node_modules/repeat-string/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/align-text/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/yargs/node_modules/cliui/node_modules/center-align/node_modules/lazy-cache/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/yargs/node_modules/cliui/node_modules/center-align/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/node_modules/kind-of/node_modules/is-buffer/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/node_modules/kind-of/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/node_modules/longest/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/node_modules/repeat-string/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/yargs/node_modules/cliui/node_modules/right-align/node_modules/align-text/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/yargs/node_modules/cliui/node_modules/right-align/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/yargs/node_modules/cliui/node_modules/wordwrap/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/yargs/node_modules/cliui/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/yargs/node_modules/decamelize/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/yargs/node_modules/window-size/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/node_modules/yargs/package.json" />
+      <path value="$PROJECT_DIR$/imooc_node_mongodb/public/libs/bootstrap/package.json" />
+      <path value="$PROJECT_DIR$/imooc_ref/package.json" />
+      <path value="$PROJECT_DIR$/imooc_ref/public/libs/bootstrap/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="949" />
+    <option name="width" value="980" />
+    <option name="height" value="1031" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-      <flattenPackages />
-      <showMembers />
-      <showModules />
-      <showLibraryContents />
-      <hideEmptyPackages />
-      <abbreviatePackageNames />
-      <autoscrollToSource />
-      <autoscrollFromSource />
-      <sortByType />
-      <manualOrder />
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FrontEnd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FrontEnd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FrontEnd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FrontEnd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="quiz" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FrontEnd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FrontEnd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="image" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
+          <expand>
+            <path>
+              <item name="FrontEnd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FrontEnd" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
         </subPane>
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../i_movie" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -150,8 +1274,8 @@
       </list>
     </option>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -162,89 +1286,189 @@
       <updated>1490770217214</updated>
       <workItem from="1490770219107" duration="671000" />
       <workItem from="1490800206394" duration="134000" />
+      <workItem from="1525687810261" duration="2847000" />
+      <workItem from="1525763609186" duration="70000" />
+      <workItem from="1525767564520" duration="14358000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="805000" />
+    <option name="totallyTimeSpent" value="18080000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17553614" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3297491" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.39784947" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="processedProjectFiles" value="true" />
+    <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager />
-    <watches-manager />
-  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/imooc_node_mongodb/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="7" lean-forward="true" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/image/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="616">
-          <caret line="28" column="11" lean-forward="false" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
-          <folding />
+          <caret line="28" column="11" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/image/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
-          <caret line="2" column="14" lean-forward="false" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/quiz/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="14" lean-forward="false" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/quiz/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/image/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="28" column="11" lean-forward="false" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
-          <folding />
+        <state relative-caret-position="107">
+          <caret line="33" column="5" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc_node_mongodb/.bowerrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc_node_mongodb/views/includes/header.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc_node_mongodb/views/includes/head.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc_node_mongodb/views/layout.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc_node_mongodb/views/pages/admin.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc_node_mongodb/views/pages/detail.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc_node_mongodb/views/pages/index.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc_node_mongodb/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="55" column="16" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc_node_mongodb/views/pages/list.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc_node_mongodb/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imooc_node_mongodb/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="23" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
         </state>
       </provider>
     </entry>
