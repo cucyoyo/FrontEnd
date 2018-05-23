@@ -1,3 +1,10 @@
+## 项目开发环境开启
+### 开启mongoDB服务
+- 管理员身份运行：`net start mongodb` 显示MongoDB服务已经启动成功
+- 安装`bower`依赖：`$ bower install`（可能需要先npm install）
+- 安装`npm`依赖：`$ npm install`
+- 启动项目入口文件，运行app.js: `node app.js`
+
 ## 步骤：
 （前提是安装好了node）
 - 安装了mongodb，测试开启服务成功，安装了mongodb可视化工具robomongo，便于查看和开发
