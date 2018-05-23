@@ -1,0 +1,21 @@
+{
+  "name": "imooc_node_mongodb",
+  "description": "",
+  "main": "",
+  "authors": [
+    "yoyo"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/cucyoyo/FrontEnd",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.1"
+  }
+}

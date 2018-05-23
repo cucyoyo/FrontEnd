@@ -12,8 +12,8 @@
 - 创建了红框框内的目录结构
 ![](./md_images/dir_structor.png)
 
-- cnpm install -g express jade bower mongoose
-
+- cnpm install -g express jade bower mongoose --save
+- bower init(创建bower.json)
 - bower install bootstrap -g(由于依赖关系，会同步安装jquery)，此时自动生成了bower_components文件夹，b、j的内容都被放到这个里面
 
 - 为了方便项目的可移植性，我们不使用bower_components目录，
