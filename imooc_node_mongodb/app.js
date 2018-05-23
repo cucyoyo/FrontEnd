@@ -7,9 +7,9 @@ console.log("your imooc_movie project is listening port:" + port);
 
 var path = require('path');
 
-var mongoose = require('mongoose');
-mongoose.connect('mongodb://localhost:27017/imooc_movie');
-console.log('MongoDB connect success!');
+// var mongoose = require('mongoose');
+// mongoose.connect('mongodb://localhost:27017/imooc_movie');
+// console.log('MongoDB connect success!');
 
 var serveStatic = require('serve-static');  // 静态文件处理
 app.use(serveStatic('public')); // 路径：public
