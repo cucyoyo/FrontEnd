@@ -16,6 +16,7 @@ app.use(serveStatic('public')); // 路径：public
 
 app.set('views', './views/pages');
 app.set('view engine', 'jade');
+// app.set('view engine', 'html');
 
 // var movie = require
 
@@ -23,10 +24,16 @@ app.set('view engine', 'jade');
 app.get('/', function (req, res) {
   res.render('index', {
     title: '首页',
-    movies: {
+    movies: [{
+      _id: 123,
       "title": "电影名称",
       "doctor": "导演"
-    }
+    },
+    {
+      _id: 124,
+      "title": "电影名称",
+      "doctor": "导演"
+    },]
   })
 });
 
@@ -71,7 +78,22 @@ app.get('/admin/list', function (req, res) {
 // 录入页和修改页
 app.get('/admin', function (req, res) {
   res.render('admin', {
-    title: "录入页"
+    title: "录入页",
+    movie: {
+      "_id" : 123,
+      "doctor" : "导演",
+      "title" : "名字",
+      "country" : "中国",
+      "language" : "中文",
+      "year" : 2018,
+      "poster" : "https://movie.douban.com/subject/26683723/?from=showing",
+      "summary" : "jianjie",
+      "flash" : "http://player.youku.com/embed/XMzU2ODM2NDk4NA==",
+      "meta" : {
+        "updateAt" : "创建时间",
+        "createAt" : "更新时间"
+      }
+    },
   })
 });
 
@@ -79,6 +101,28 @@ app.get('/admin', function (req, res) {
 // 详情页
 app.get('/movie/:id', function (req, res) {
   res.render('detail', {
-    title: "详情页"
+    title: "详情页",
+    movie: {
+      "_id" : 123,
+      "doctor" : "导演",
+      "title" : "名字",
+      "country" : "中国",
+      "language" : "中文",
+      "year" : 2018,
+      "poster" : "https://movie.douban.com/subject/26683723/?from=showing",
+      "summary" : "jianjie",
+      "flash" : "http://player.youku.com/embed/XMzU2ODM2NDk4NA==",
+      "meta" : {
+        "updateAt" : "创建时间",
+        "createAt" : "更新时间"
+      }
+    },
   })
 });
+
+
+// app.get('/test', function (req, res) {
+//   res.sendfile('views/pages/test.html', {
+//
+//   })
+// });

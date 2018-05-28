@@ -36,3 +36,8 @@
 			script(src="/libs/jquery/dist/jquery.min.js")
 			script(src="/libs/bootstrap/dist/js/bootstrap.min.js")
 			```
+## 在ubuntu上保持运行
+
+### pm2使用
+- `npm install -g pm2`
+- 启动`pm2 start app.js`
