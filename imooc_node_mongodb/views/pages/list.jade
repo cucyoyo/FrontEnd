@@ -7,21 +7,22 @@ block content
         th 导演
         th 国家
         th 上映年份
-        th 录入时间
+        //th 录入时间
         th 查看
         th 更新
         th 删除
     tbody
       each movie in movies
-        tr
+        tr(class='item-id-#{movie.Id}')
           td #{movie.title}
           td #{movie.doctor}
           td #{movie.country}
           td #{movie.year}
-          td #{movie.meta.createAt}
+          //td #{movie.meta.createAt}
           td
-            a(href='') 查看
+            a(href='/movie/' + movie.Id) 查看
           td
-            a(href='') 修改
+            a(href='/admin/update/' + movie.Id) 修改
           td
-            bottun.btn.btn-danger() 删除
+            bottun.btn.btn-danger.del-movie(type='button', data-id='#{movie.Id}') 删除
+  script(src='/js/public.js')
