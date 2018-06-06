@@ -129,6 +129,8 @@ app.post('/admin/movie/new', function (req, res) {
   if (id !== 'undefined') { // 已经存在的电影数据,更新数据库
     let  addSql = 'update movie set doctor = ?, title = ?, country = ?, language = ?, year = ?, poster = ?, summary = ?, flash = ? where Id = ' + id;
     let  addSqlParams = [movieObj.doctor, movieObj.title, movieObj.country, movieObj.language, movieObj.year, movieObj.poster, movieObj.summary, movieObj.flash];
+
+
     connection.query(addSql,addSqlParams,function (err, result) {
       if(err){
         console.log('[INSERT ERROR] - ',err.message);
@@ -140,6 +142,8 @@ app.post('/admin/movie/new', function (req, res) {
   } else {  // 新加的电影
     let  addSql = 'INSERT INTO movie(doctor,title,country,language,year,poster,summary,flash) VALUES(?,?,?,?,?,?,?,?)';
     let  addSqlParams = [movieObj.doctor, movieObj.title, movieObj.country, movieObj.language, movieObj.year, movieObj.poster, movieObj.summary, movieObj.flash];
+    console.log('--------'+movieObj.summary);
+    return;
     connection.query(addSql,addSqlParams,function (err, result) {
       if(err){
         console.log('[INSERT ERROR] - ',err.message);

@@ -49,5 +49,8 @@
 ### pm2使用
 - `npm install -g pm2`
 - 启动`pm2 start app.js`
+- 查看pm2守护的进程列表： `pm2 list`
+- 停止进程：`pm2 stop 进程号`
+- 删除进程： `pm2 delete 进程名称`
 
 
