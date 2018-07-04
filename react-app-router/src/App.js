@@ -5,18 +5,19 @@ import {BrowserRouter as Router, Route, Switch, Redirect, NavLink} from "react-r
 import Common from './components/Common'
 
 
+
 class App extends Component {
   render() {
     return (
       <Router>
         <div className="app">
           {/*<Common></Common>*/}
-          <Switch>
+          {/*<Switch>*/}
             <Route path="/" component={Common} />
 
             {/*<Redirect from="/" to="/Common" />*/}
             {/*<Route component={Common} />*/}
-          </Switch>
+          {/*</Switch>*/}
         </div>
       </Router>
     );
