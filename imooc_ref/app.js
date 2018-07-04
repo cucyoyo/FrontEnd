@@ -11,6 +11,7 @@ var path = require('path');
 var mongoose = require('mongoose'); // 加载mongoose模块
 mongoose.connect('mongodb://localhost:27017/imovie', { useMongoClient: true }); // 连接mongodb本地数据库imovie
 console.log('MongoDB connection success!');
+
 /*  mongoose 简要知识点补充
 * mongoose模块构建在mongodb之上，提供了Schema[模式]、Model[模型]和Document[文档]对象，用起来更为方便。
 * Schema对象定义文档的结构（类似表结构），可以定义字段和类型、唯一性、索引和验证。

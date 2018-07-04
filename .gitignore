@@ -1,3 +1,6 @@
 .idea/
 imooc_ref/node_modules
 imooc_node_mongodb/node_modules
+react-app-router/node_modules
+react-gallery/node_modules
+create-react-app + router/node_modules
